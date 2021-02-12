@@ -1,0 +1,333 @@
+@media screen and (max-width: 1024px){
+    .icons{
+        margin-left: 5%;
+    }
+    #spot1{
+        width: 19%;
+        margin: 5rem 0 0 3rem;
+    }
+    .text{
+        width: 58%;
+        font-size: 21px;
+    }
+    .bottom{
+        margin-left: 74%;
+    }
+    .analyse{
+        width: 220px;
+    }
+    .skills{
+        width: 33%;
+        margin: 20px 0 0 20px;
+    }
+    .add{
+        margin: 15px 0 0 70px;
+        width: 25%;
+    }
+    .outcomes{
+        margin: 10px 120px 0 50px;
+    }
+    .ans{
+        width: 200px;
+        padding-bottom: 0px;
+    }
+    .works{
+        display: flex;
+        width: 610px;
+    }
+    h2{
+        font-size: 3rem;
+        width: 260px;
+    }
+    .student{
+        font-size: 36px;
+        padding-left: 80px;
+    }
+    .company{
+        margin-top: 5.5%;
+    }
+    .find{
+        margin-left: 0%;
+    }
+    .headings{
+        font-size: 55px;
+        margin-left: 50px;
+        margin-top: 12%;
+    }
+    span{
+        margin-left: 100px;
+    }
+    .list ul{
+        margin-left: 45%;
+    }
+    #spot{
+        margin: 15px 0 0 10px;
+        width: 15%;
+    }
+    .about{
+        margin-left: 50px;
+    }
+}
+@media screen and (max-width: 768px){
+    .list ul{
+        margin-left: 25%;
+    }
+    #spot{
+        width: 17%;   
+    }
+    span{
+        margin-left: 0;
+    }
+    .headings{
+        font-size: 50px;
+        margin-left: 60px;
+        margin-top: 14%;
+        width: 85%;
+    }
+    .analyse{
+        font-size: 16px;
+        width: 150px;
+    }
+    h3{
+        font-family: 'Playfair display';
+        font-size: 22px;
+        padding: 20px 0 20px 0px;
+    }
+    .skills{
+        width: 34%;
+        margin: 20px 0 0 15px;
+    }
+    .student{
+        font-size: 35px;
+        padding-left: 70px;
+    }
+    .add{
+        margin: 15px 0 0 70px;
+        width: 26%;
+    }
+    .works{
+        display: flex;
+        flex-wrap: wrap;
+        width: 420px;
+    }
+    h2{
+        font-size: 2rem;
+        width: 300px;
+        margin-left: 10px;
+    }
+    iframe{
+        margin-left: 35px;
+        margin-top: 10px; 
+    }
+    .see{
+        margin-top: 0;
+        margin-left: 10px;
+    }
+    .sframe{
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    .company{
+        margin-top: 8%;
+        
+    }
+    #facilio{
+        margin-right: 20px;
+    }
+    .footer{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-content: space-evenly;
+    }
+    .maps{
+        width: 100%;
+        margin-left: 45%;
+    }
+    .map{
+        width: 100%;
+        margin-left: 45%;
+    }
+    .icon{
+        margin-right: 70%;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .list{
+        display:inline;
+        padding: 1%;
+        width: 100%;  
+    }
+    .list ul{
+        margin-left: 8%;
+    }
+    #spot{
+        width: 37%;
+        margin: 3% 0 2% 30%;
+    }    
+    .outcomes{
+        display: inline;
+    }
+    .second{
+        display: inline;
+    }
+    .works{
+        display: flex;
+        width: 350px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    .skills{
+        width: 75%;
+        padding: 10px 30px;
+        margin: 20px 0 0 52px;
+    }
+    .analyse{
+        font-size: 15px;
+        width: 255px;
+    }
+    .aframe{
+        width: 220px;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .student{
+        font-size: 25px;
+        padding-left: 0px;
+        text-align: center;
+        margin-top: 90px;
+    }
+    .sframe{
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .text{
+        width: 70%;
+        font-size: 16px;
+        margin-left: 55px;
+    }
+    .quotes{
+        font-size: 4rem;
+        margin-left: 15%;
+    }
+    .bottom{
+        margin-top: 0;
+        margin-left: 75%;
+    }
+    .footer{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: space-evenly;
+        margin-left: 6px;
+    }
+    .maps{
+        width: 80%;
+        margin-left: 0%;
+    }
+    .map{
+        width: 80%;
+        margin-left: 0%;
+    }
+    .about{
+        margin-left: 0px;
+    }
+    #spot1{
+        width: 40%;
+    }
+    .icon{
+        margin-right: 40%;
+    }
+    .last{
+        margin-left: 50px;
+    }
+    .headings{
+        font-size: 30px;
+        margin-left: 50px;
+        margin-top: 32%;    
+    }
+    .facil{
+        display: block;
+        margin-left: 25%;
+        margin-top: 40px;
+    }
+    .company{
+        font-size: 17px;
+        font-family: 'Poppins';
+        margin-top: 4.5%;
+    }
+    #facilio{
+        width: 100px;
+        margin-left: 40px;
+    }
+    .sub{
+        width: 80%;
+        margin-left: 7%;
+        margin-top: 4%;
+    }
+}
+
+@media screen and (max-width:375px){
+    .list ul{
+        margin-left: 5%;
+    }
+    .headings{
+        font-size: 28px;
+        margin-left: 30px;
+        margin-top: 40%;    
+    }
+    .analyse{
+        font-size: 15px;
+        width: 240px;
+    }
+    .sub{
+        width: 83%;
+        margin-left: 8%;
+        margin-top: 4%;
+    }
+    .aframe{
+        margin-left: 10px;
+    }
+    h2{
+        font-size: 21px;
+    }
+    .sframe{
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width:320px){
+    .list ul{
+        margin-left: 2%;
+    }
+    .list ul li{
+        width: 65px;
+        padding: 5px;
+    }
+    .headings{
+        font-size: 28px;
+        margin-left: 31px;  
+    }
+    .analyse{
+        font-size: 15px;
+        width: 200px;
+    }
+    .sub{
+        width: 85%;
+        margin-left: 8%;
+        margin-top: 6%;
+    }
+    .aframe{
+        margin-left: 0px;
+        width: 190px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    .sframe{
+        margin-top: 20px;
+        width: 190px;
+        margin-left: 0px;
+    }
+}
