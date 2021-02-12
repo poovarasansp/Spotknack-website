@@ -96,7 +96,7 @@ h3{
 }
 .analyse{
     font-family: 'Poppins';
-    width: 270px;
+    width: 89%;
     padding-bottom: 25px;
     font-size: 17px;
     letter-spacing: 1px;
@@ -118,7 +118,7 @@ h3{
     width: 28%;
 }
 .ans{
-    width: 300px;
+    width: 88%;
     padding-bottom: 50px;
 }
 .second{
@@ -126,13 +126,13 @@ h3{
 }
 .works{
     display: flex;
-    width: 675px;
+    width: 50%;
     background-image: linear-gradient(to right, rgb(40, 184, 250),rgb(33, 247, 140),rgb(221, 184, 19),rgb(253, 63, 212));
 }
 h2{
     font-size: 3.5rem;
     color: white;
-    width: 280px;
+    width: 50%;
     font-family: 'Playfair display';
     letter-spacing: 2px;
     margin-left: 50px;
@@ -171,7 +171,7 @@ iframe{
     margin-left: 25%;
 }
 #deepthi{
-    width: 120px;
+    width: 10%;
     border-radius: 50%;
     display: block;
     margin: 15px auto;
